@@ -12,7 +12,7 @@ The API documentation provides full details on how to use the API, including exa
 
 ## Demo
 
-Insert gif or link to demo
+https://store-rest-api-qo9n.onrender.com/
 
 ## API Reference
 
@@ -75,13 +75,13 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Sidc29/Store-Restful-API.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Store-Restful-API
 ```
 
 Install dependencies
